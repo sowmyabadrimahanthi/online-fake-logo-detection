@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/vivek153/real-or-fake-logo
+https://www.kaggle.com/datasets/rebootshen/pretrained-model
